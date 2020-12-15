@@ -1,12 +1,9 @@
 # व्यूहक्रम
 व्यूहक्रम क्रमादेश हि विश्वव्यापिन् प्रकटता
-# Purpose 
-Provide independant environment
-# Process 
-When ready for deployment digital image testing 
-required dev approves the deployment stage 
-# Deployment stages
-Copy the maya export to the realtime in incognito after
-the export completed dev need access to incognito view
-after digital image testing completed set the local 
-access with import guarantee
+# किमर्थम् 
+कल्पयति स्वतन्त्र संवादात्मक बहिर्लोक
+# संसाधयति 
+यदा निवृत्त कषति अङ्कीय प्रतिबिम्ब 
+कदा देव प्रशंसति मोक्षयति
+# प्रया
+जयति
