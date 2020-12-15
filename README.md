@@ -1,5 +1,5 @@
-# deploy
-Deployment program for universal manifestation
+# व्यूहक्रम
+व्यूहक्रम क्रमादेश हि विश्वव्यापिन् प्रकटता
 # Purpose 
 Provide independant environment
 # Process 
